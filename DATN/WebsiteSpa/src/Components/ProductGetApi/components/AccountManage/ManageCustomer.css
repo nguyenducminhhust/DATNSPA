@@ -1,0 +1,36 @@
+.managecustomer table, .managecustomer th, .managecustomer td{
+    border: 1px solid black;
+}
+.managecustomer table, .managecustomer th, .managecustomer td{
+    border: 1px solid black;
+}
+/* .editcustomerbut, .savecustomerbut{
+    border-radius: 5px;
+    padding: 2px 8px;
+    font-weight: bold;
+    font-size: 17px;
+    margin-left: 5px;
+} */
+
+.managecustomer{
+    width: max-content;
+    /* align-self: center; */
+    margin: auto;
+    margin-top: 15px;
+}
+.titlemanagecustomer{
+    position: relative;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
+.paginatemanagecustomer{
+    width: 100%;
+    /* border: 1px solid black; */
+    margin-bottom: 50px;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15px;
+    font-size: 20px;
+}
